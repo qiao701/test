@@ -10,4 +10,5 @@ for i in range(101,201):
         print i
         count=count+1
 print "素数的总数为:",count
+print
 
