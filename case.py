@@ -1,5 +1,5 @@
 # _*_ coding: UTF-8 _*_
-print"100-200间的素数为:"
+print"100-200间的素数是:"
 count = 0  ##统计素数的个数
 for i in range(101,201):
     a=2
@@ -10,3 +10,4 @@ for i in range(101,201):
         print i
         count=count+1
 print "素数的总数为:",count
+print
